@@ -11,6 +11,9 @@ The dataset contains Date,Time,Cash_type,Card,Coffee_name .The data contains 5 c
     This analysis aims to answer the questions of the sales trends of product.The result of this can help use measure the effectiveness
     of each sales strategy the business applies and what modifications are needed togain more sales.
 
+  2.Product Analysis-
+    Conduct analysis on the data to understand the different product, the products performing best and the product that need to be improved.
+
   2.Customer Analysis -
     This analysis to uncover the different Customer, Purchase trends and the profitability of each customer segment.
 
