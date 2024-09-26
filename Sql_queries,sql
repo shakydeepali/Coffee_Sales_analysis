@@ -77,6 +77,10 @@ FROM sales
 GROUP BY month_name, coffee_name
 ORDER BY coffee_name, total_sales DESC;
 
+-- ----------------------------------------------------------------------------------------------------
+-- ---------------------------------------Product------------------------------------------------------
+
+
 -- Which coffee type generates the most revenue?
 SELECT coffee_name, SUM(money) AS total_revenue
 FROM sales
@@ -119,5 +123,8 @@ SELECT cash_type,
        AVG(money) AS average_spent_per_transaction
 FROM sales
 GROUP BY cash_type;
+
+
+
 
 
