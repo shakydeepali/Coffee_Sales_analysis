@@ -1,17 +1,12 @@
 # Coffee_Sales_analysis
 
-About-
-
-
-
-
-Objective -
+# Objective -
 The main objective of this project is to analyze reatil sales data to gain actionable insights that will enhance the performance of the Coffee_Sales.
 
-About Data -
+# About Data -
 The dataset contains Date,Time,Cash_type,Card,Coffee_name . the data contains 5 columns and 1134 rows.
 
-Analysis List-
+# Analysis List-
   1.Sales Analysis -
     This analysis aims to answer the questions of the sales trends of product.The result of this can help use measure the effectiveness
     of each sales strategy the business applies and what modifications are needed togain more sales.
@@ -19,7 +14,7 @@ Analysis List-
   2.Customer Analysis -
     This analysis to uncover the different Customer, Purchase trends and the profitability of each customer segment.
 
-Approach Used-
+# Approach Used-
 
 1.Data Wrangling: This the first step where  inspection of data is done to make sure NULL values and missing values are detected and data 
   replacement methods are used to replace, missing or NULL values.
@@ -40,19 +35,19 @@ Approach Used-
 
 4.Conclusion :
 
-Business Questions to answer
+# Business Questions to answer
 
-Sales
+# Sales
 1.What are the peak hours for sales?
 2.Are there any trends in sales over the days of the week (e.g., weekends vs. weekdays)?
 3.Are there any seasonal or date-specific spikes in sales for certain coffee types?
 
-Product
+# Product
 1.Which coffee type generates the most revenue?
 2.Which coffee types contribute the most to overall profit margins?
 3.Are there any coffee types that underperform or are rarely purchased?
 
-Customer
+# Customer
 1.Are there any patterns in spending by specific cardholders?
 2.How does spending differ between payment types (e.g., card vs. cash)?
 
