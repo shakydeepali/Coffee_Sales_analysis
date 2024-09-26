@@ -4,7 +4,7 @@
 The main objective of this project is to analyze reatil sales data to gain actionable insights that will enhance the performance of the Coffee_Sales.
 
 # About Data -
-The dataset contains Date,Time,Cash_type,Card,Coffee_name . the data contains 5 columns and 1134 rows.
+The dataset contains Date,Time,Cash_type,Card,Coffee_name .The data contains 5 columns and 1134 rows.
 
 # Analysis List-
   1.Sales Analysis -
